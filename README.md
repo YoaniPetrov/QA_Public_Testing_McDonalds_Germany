@@ -5,6 +5,7 @@ This repository demonstrates manual and automated testing
 performed on the McDonalds Germany's public website.
 
 ## Project Structure
+```
 QA_Public_Testing_McDonalds_Germany/
 │
 ├── Automation Tests/
@@ -42,6 +43,6 @@ QA_Public_Testing_McDonalds_Germany/
 ├── reports/
 │
 └── README.md
-
+```
 ## Author
 Yoani Petrov
