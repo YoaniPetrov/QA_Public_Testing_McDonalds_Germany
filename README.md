@@ -1,2 +1,13 @@
-# QA_Public_Testing_McDonalds_Germany
-Public Testing of McDonalds Germany's website for bugs,typos etc.
+# McDonalds Germany QA Testing Project
+
+## Overview
+This repository demonstrates manual and automated testing
+performed on the McDonalds Germany's public website.
+
+## Project Structure
+- Automation_Tests
+- Manual_tests
+- Reports
+
+## Author
+Yoani Petrov
