@@ -1,4 +1,4 @@
-Test Case ID : TC_HP 1 
+Test Case ID : TC_HP1 
 
 Prerequisites : none
 
