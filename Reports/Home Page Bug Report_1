@@ -1,0 +1,29 @@
+Bug ID : HP_BugR1
+
+Test Case ID : TC_HP6
+
+Title : Missing Language adjustment option
+ 
+Environment : Windows 10, Firefox Build 147.0.4(64-Bit)
+
+Prerequisites : none
+
+Severity : Major
+
+Priority : High
+
+Description : User is unable to adjust or change the language settings of the website. 
+
+Steps to Reproduce : 
+1.Open https://www.mcdonalds.com/de/de-de.html
+2. (Optional) Use search functionality of web browser to look for language settings.
+
+Expected Result : Language settings are visible and easily reachable for end-user.
+
+Actual Result : No language settings available
+
+Status : Open
+
+Assigned To : -
+
+Comments : Adjusting Language settings provides customers with low technical and language knowledge the possibility to access and use the website as intended.
