@@ -5,12 +5,15 @@ The purpose of this testing is to verify the functionality,
 usability, and navigation of the McDonalds Germany's website.
 
 ## 2. Scope
-The following features will be tested:
-- Homepage loading
-- Navigation menu
-- Restaurant finder
-- Promotions pages
-- Footer links
+The following pages and their corresponding functionalities will be tested:
+- Homepage
+- Products Page 
+- Orders Page
+- Careers Page
+- Franchise Page
+- MyMcdonalds Page
+- McCafe Page
+
 
 ## 3. Out of Scope
 - Performance testing
@@ -18,7 +21,7 @@ The following features will be tested:
 - Load testing
 
 ## 4. Test Approach
-Manual functional testing will be performed using
+Manual functional testing will be performed using latest
 desktop Mozilla Firefox browser.
 
 ## 5. Test Environment
@@ -26,7 +29,10 @@ desktop Mozilla Firefox browser.
 - Browser: Mozilla Firefox (build 147.0.3, latests)
 
 ## 6. Entry Criteria
-Website is accessible and test data prepared.
+Stable internet connection.
+Website is open and not under maintenance, to be seen as available.
+
 
 ## 7. Exit Criteria
 All planned test cases executed and documented.
+Bug reports are filed and accessable.
