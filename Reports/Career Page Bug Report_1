@@ -1,0 +1,39 @@
+Bug ID : CP_BugR1
+
+Test Case ID : TC_CP9
+
+Title : Job opportunities page - All job posibilities.
+
+Environment : Windows 10, Firefox Build 147.0.4(64-Bit)
+
+Prerequisites : none
+
+Severity : Medium
+
+Priority : Medium
+
+Description : User is redirected to Job search page, but the filters from previous search as still functional.
+
+Steps to Reproduce : 
+1. Open https://www.mcdonalds.com/de/de-de.html
+
+2. Scroll to the bottom of the page (Home Page)
+
+3. Press on Careers (Karriere) link
+  Alternatively: Open https://karriere.mcdonalds.de/ directly
+
+4. Click on "Möglichkeiten im Restaurant" from the top of the page.
+  Alternatively : Open https://karriere.mcdonalds.de/moeglichkeiten-im-restaurant/ directly.
+
+5. Scroll down until "Alle Jobs im Restaurant" button is visible and click on it.
+  Alternatively : Press the button when the bottom banner expands.
+
+Expected Result : The "Alle Jobs im Restaurant" button redirect to the Job Offers page, where all the Restaurant Job oportunities are displayed
+
+Actual Result : The button redirects to the page, bug all the filters from the previous job search are still fucntional and remain active.
+
+Status : Open
+
+Assigned To : -
+
+Comments : TODO: add Screenshot to the bug.
