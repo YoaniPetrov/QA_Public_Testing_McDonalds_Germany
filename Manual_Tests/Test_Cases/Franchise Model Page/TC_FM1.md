@@ -1,15 +1,18 @@
-Test Case ID :
+Test Case ID : TC_FM1
 
-Prerequisites :
+Prerequisites : none
 
-Title :
+Title : Franchise page display validation
 
-Description :
+Description : Validate that the Franchise page opens and displays as intended.
 
 Steps :
+1. Open https://www.mcdonalds.com/de/de-de.html
+2. Click on Franchise Modell button.
+Alternatively open https://franchise.mcdonalds.de/ directly.
 
-Expected result :
+Expected result : Franchise page opens and is displayed correctly, video is loading and playing, no broken files or images displayed.
 
-Pass / Fail :
+Pass / Fail : Pass
 
 Comments :
