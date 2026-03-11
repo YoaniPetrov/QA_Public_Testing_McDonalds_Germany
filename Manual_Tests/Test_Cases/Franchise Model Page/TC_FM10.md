@@ -4,7 +4,7 @@ Prerequisites : none
 
 Title : Franchise Modell Sub Page - "Unser System" - side scroll functionality banner
 
-Description : Validate that "Unser System" web page opens and displays correctly.
+Description : Validate that "Unser System" web page's side scroll buttons function and displays correctly.
 
 Steps :
 1. Open https://www.mcdonalds.com/de/de-de.html
