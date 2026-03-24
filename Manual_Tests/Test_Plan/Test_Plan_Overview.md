@@ -6,13 +6,14 @@ usability, and navigation of the McDonalds Germany's website.
 
 ## 2. Scope
 The following pages and their corresponding functionalities will be tested:
-- Homepage
+- Home page
 - Products Page 
-- Orders Page
+- Order Page
 - Careers Page
-- Franchise Page
-- MyMcdonalds Page
+- Franchise Model Page
+- MyMcdonald's Page
 - McCafe Page
+- Family Page
 
 
 ## 3. Out of Scope
